@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c555fa8f-0941-4530-884f-52e63c3e271f">
+  <producedTypes>
+    <containerType typeId="ba13cb05-15a9-4995-bf23-2774f683807f" valueTypeId="baf7316d-13f9-499e-81f6-d9f63c7dd140"/>
+  </producedTypes>
+  <name>КН_Проценты100</name>
+  <synonym>
+    <key>ru</key>
+    <value>Проценты (КН)</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>5</precision>
+      <scale>2</scale>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+</mdclass:DefinedType>
