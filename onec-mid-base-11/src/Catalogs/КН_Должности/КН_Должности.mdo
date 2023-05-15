@@ -10,7 +10,7 @@
   <name>КН_Должности</name>
   <synonym>
     <key>ru</key>
-    <value>Должности</value>
+    <value>Должности (КН)</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.КН_Должности.StandardAttribute.Code</inputByString>

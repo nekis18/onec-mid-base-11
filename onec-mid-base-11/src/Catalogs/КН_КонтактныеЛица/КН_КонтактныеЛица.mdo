@@ -10,7 +10,7 @@
   <name>КН_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
-    <value>Контактные лица</value>
+    <value>Контактные лица (КН)</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.КН_КонтактныеЛица.StandardAttribute.Code</inputByString>
@@ -21,6 +21,7 @@
   <fullTextSearch>Use</fullTextSearch>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
+  <owners>Catalog.Контрагенты</owners>
   <codeLength>9</codeLength>
   <descriptionLength>25</descriptionLength>
   <codeType>String</codeType>
